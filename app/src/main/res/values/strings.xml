@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Detail Sistem Pakar</string>
+    <string name="data1">• Memiliki uang Rp 4Jt\n• Ingin memilih handphone yang prosesornya bagus\n• Apakah tepat jika membeli merek Acer ?</string>
+    <string name="datarule">•	R1 = <b>IF</b> Pembeli memiliki uang Memiliki uang Rp 4Jt <b>AND</b> dia ingin Memilih laptop yang ram-nya besar <b>THEN</b> Dia membeli merek Asus\n
+•	R2 = <b>IF</b> Pembeli ingin Memilih laptop yang prosesornya cepat <b>AND</b> dia ingin memilih laptop yang ram-nya besar <b>THEN</b> Dia membeli merek Lenovo\n
+•	R3 = <b>IF</b> Pembeli memiliki uang Rp 6Jt <b>AND</b> dia ingin memilih laptop yang prosesornya cepat <b>THEN</b> Dia membeli merek Lenovo\n
+•	R4 = <b>IF</b> Pembeli memiliki uang Memiliki uang Rp 6Jt <b>THEN</b> dia ingin Memilih laptop yang ram-nya besar\n
+•	R5 = <b>IF</b> Pembeli ingin Memilih laptop yang prosesornya cepat <b>THEN</b> Dia membeli merek Acer\n
+</string>
+    <string name="datasimpl"> R1 : IF A AND C, THEN E\nR2 : IF D AND C, THEN F\nR3 : IF B AND D, THEN F\nR4 : IF B, THEN\nR5  :  IF D, THEN G\n</string>
+    <string name="dataimpl">• Sistem Pakar : Pemilihan pembelian laptop\n• Kasus : Seseorang ingin membeli sebuah laptop tetapi dia bingung untuk menentukan pilihannya
+</string>
+</resources>
